@@ -100,7 +100,7 @@ local themeStyles = {
     },
     Ro = {
         SchemeColor = Color3.fromRGB(72, 70, 127),
-        Background = Color3.fromRGB(32, 32, 32),
+        Background = Color3.fromRGB(26, 24, 29),
         Header = Color3.fromRGB(24, 24, 24),
         TextColor = Color3.fromRGB(254, 254, 254),
         ElementColor = Color3.fromRGB(72, 70, 127)
